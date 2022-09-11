@@ -1,24 +1,16 @@
 #include <stdio.h>
 
 /**
- * * main - To demonstrate the puts keyword
+ * main -print in the puts function. 
  *
- *  * Return: return 0
- *
- *   */
+ * Return: 0
+ */
 
 int main(void)
 
+
 {
-
-		char a[] = "\"Programming is like building a multilingual puzzle";
-
-
-
-			puts(a);
-
-
-
-				return (0);
+      puts("\"Programming is like building a multilingual puzzle");
+      return (0);
 
 }
